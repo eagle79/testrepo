@@ -3,3 +3,5 @@ Adding some text to newfile.
 Adding additional text requested during pull request.
 
 Bite me
+
+Crunch.
