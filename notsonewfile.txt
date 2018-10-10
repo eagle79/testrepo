@@ -1,0 +1,9 @@
+Adding some text to newfile (not really new now).
+
+Adding additional text requested during pull request.
+
+Bite me
+
+Crunch.
+
+Another line.
